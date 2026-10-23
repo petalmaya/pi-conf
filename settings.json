@@ -1,0 +1,24 @@
+{
+  "lastChangelogVersion": "1.0.1",
+  "theme": "sakura",
+  "packages": [
+    "npm:pi-subagents",
+    "npm:pi-web-access",
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:@narumitw/pi-plan-mode",
+    "npm:claude-code-pi",
+    "npm:opencode-pi",
+    "npm:statusline-pi",
+    "npm:timestamp-pi",
+    "npm:pi-markdown-preview",
+    "npm:@narumitw/pi-goal"
+  ],
+  "compaction": {
+    "enabled": false
+  },
+  "terminal": {
+    "showTerminalProgress": false
+  },
+  "enableInstallTelemetry": false
+}
